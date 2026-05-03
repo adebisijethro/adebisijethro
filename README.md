@@ -31,7 +31,7 @@ I’m happy to collaborate on:
 ### 📫 Let’s Connect
 - 📧 Email: **adebisireuel@gmail.com**  
 - 💼 LinkedIn: [Jethro Adebisi](https://www.linkedin.com/in/jethro-adebisi-21872a20b/)  
-- 🌐 Portfolio: [adebisijethro.framer.website](https://jethrotheuxpert.vercel.app/)
+- 🌐 Portfolio: [adebisijethro](https://jethrotheuxpert.vercel.app/)
 
 ---
 
